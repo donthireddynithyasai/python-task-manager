@@ -17,11 +17,9 @@ A simple command-line Task Manager application built using Python.
 - `task_manager.py` - Contains task management functions
 - `test_task_manager.py` - Contains unit tests
 
-## How to Run
-
-```bash
+How to Run
 python main.py
-## How to Run Tests
+How to Run Tests
 
 python -m unittest 
 test_task_manager.py
